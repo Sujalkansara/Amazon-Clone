@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container-01{
+    height: 561px;
+    width: 400px;
+    margin: auto;
+    margin-top: 25px;
+    position: relative;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.logo{
+    height: 60px;
+    width: 140px;
+    background-color: white;
+    margin-top: 2px;
+    margin-left: 135px;
+    background-image: url('amazon-login-page-logo.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.title{
+    font-family: sans-serif;
+    font-size: 30px;
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+
+/* name */
+
+.name{
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    margin-left: 25px;
+    margin-top: 60px;
+    position: absolute;
+}
+
+.name-box{
+    margin-left: 25px;
+    position: absolute;
+    margin-top: 80px;
+    height: 35px;
+    width: 342px;
+    border-radius: 4px;
+    border: 2px solid lightgray;
+    font-family: sans-serif;
+    padding-left: 12px;
+    font-size: 16px;
+}
+
+.email{
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    margin-left: 25px;
+    margin-top: 135px;
+    position: absolute;
+}
+
+.email-box{
+    margin-left: 25px;
+    position: absolute;
+    margin-top: 155px;
+    height: 35px;
+    width: 342px;
+    border-radius: 4px;
+    border: 2px solid lightgray;
+    font-family: sans-serif;
+    padding-left: 12px;
+    font-size: 16px;
+}
+
+.password{
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    margin-left: 25px;
+    margin-top: 210px;
+    position: absolute;
+}
+
+.password-box{
+    margin-left: 25px;
+    position: absolute;
+    margin-top: 230px;
+    height: 35px;
+    width: 342px;
+    border-radius: 4px;
+    border: 2px solid lightgray;
+    font-family: sans-serif;
+    padding-left: 12px;
+    font-size: 14px;
+}
+
+.re_enter-password{
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    margin-left: 25px;
+    margin-top: 283px;
+    position: absolute;
+}
+
+.re_enter-password-box{
+    margin-left: 25px;
+    position: absolute;
+    margin-top: 303px;
+    height: 35px;
+    width: 342px;
+    border-radius: 4px;
+    border: 2px solid lightgray;
+    font-family: sans-serif;
+    padding-left: 12px;
+    font-size: 14px;
+}
+
+.submit-button{
+    margin-left: 25px;
+    position: absolute;
+    margin-top: 356px;
+    height: 38px;
+    width: 359px;
+    border-radius: 4px;
+    border: 2px solid lightgray;
+    font-family: sans-serif;
+    padding-left: 12px;
+    font-size: 16px;
+    background-color: #ffd334;
+    border-color: #ffd334;
+}
+
+.submit-button:hover{
+    cursor: pointer;
+    border: 2px solid black;
+}
+
+.description{
+    font-size: 10px;
+    font-family: sans-serif;
+    margin-top: 415px;
+    margin-left: 25px;
+}
+
+.conditions{
+    text-decoration: none;
+}
+
+.conditions:hover{
+    text-decoration: underline;
+}
+
+.privacy{
+    text-decoration: none;
+}
+
+.privacy:hover{
+    text-decoration: underline;
+}
+
+.account-already{
+    font-size: 14px;
+    font-family: sans-serif;
+    margin-top: 40px;
+    margin-left: 25px;
+}
+
+.log-in{
+    color: blue;
+    text-decoration: none;
+}
