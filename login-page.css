@@ -19,7 +19,7 @@
     background-color: white;
     margin-top: 20px;
     margin-left: 135px;
-    background-image: url('amazon-login-page-logo.jpg');
+    background-image: url('/images/amazon-login-page-logo.jpg');
     background-size: contain;
     background-repeat: no-repeat;
 }
